@@ -107,7 +107,7 @@ body {
 .transparent {
   width: 45px;
   height: 45px;
-  background-color: rebeccapurple;
+  background-color: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
